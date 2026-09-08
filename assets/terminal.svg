@@ -1,1 +1,218 @@
+<svg width="1000" height="430" viewBox="0 0 1000 430"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect x="10" y="10" width="980" height="410"
+        rx="16"
+        fill="url(#bg)"
+        stroke="#00f5ff"
+        stroke-opacity="0.45"/>
+
+  <!-- Terminal header -->
+  <rect x="10" y="10" width="980" height="55"
+        rx="16"
+        fill="#0b1220"/>
+
+  <!-- Window buttons -->
+  <circle cx="40" cy="37" r="7" fill="#ff5f57"/>
+  <circle cx="65" cy="37" r="7" fill="#febc2e"/>
+  <circle cx="90" cy="37" r="7" fill="#28c840"/>
+
+  <text x="500" y="42"
+        text-anchor="middle"
+        fill="#64748b"
+        font-family="monospace"
+        font-size="14">
+    SOFIYAAN@AI-SYSTEM
+  </text>
+
+  <!-- Terminal prompt -->
+
+  <text x="45" y="105"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="17">
+    sofiyaан@ai-system:~$
+  </text>
+
+  <text x="285" y="105"
+        fill="white"
+        font-family="monospace"
+        font-size="17">
+    ./initialize_ai.sh
+  </text>
+
+  <!-- Line 1 -->
+
+  <text x="45" y="150"
+        fill="#00f5ff"
+        font-family="monospace"
+        font-size="16">
+    &gt; Initializing AI core...
+  </text>
+
+  <text x="430" y="150"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="16">
+    ✓ ONLINE
+  </text>
+
+  <animate
+    href="#line1"
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.5s"
+    begin="0.5s"
+    fill="freeze"/>
+
+  <!-- Line 2 -->
+
+  <text id="line1"
+        x="45" y="190"
+        fill="#00f5ff"
+        font-family="monospace"
+        font-size="16"
+        opacity="0">
+    &gt; Loading Python...
+  </text>
+
+  <text x="430" y="190"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="16">
+    ✓ READY
+  </text>
+
+  <animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.5s"
+    begin="1s"
+    fill="freeze"/>
+
+  <!-- Line 3 -->
+
+  <text x="45" y="230"
+        fill="#00f5ff"
+        font-family="monospace"
+        font-size="16">
+    &gt; Loading Machine Learning...
+  </text>
+
+  <text x="430" y="230"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="16">
+    ✓ READY
+  </text>
+
+  <!-- Line 4 -->
+
+  <text x="45" y="270"
+        fill="#00f5ff"
+        font-family="monospace"
+        font-size="16">
+    &gt; Loading Deep Learning...
+  </text>
+
+  <text x="430" y="270"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="16">
+    ✓ READY
+  </text>
+
+  <!-- Line 5 -->
+
+  <text x="45" y="310"
+        fill="#00f5ff"
+        font-family="monospace"
+        font-size="16">
+    &gt; Loading Generative AI...
+  </text>
+
+  <text x="430" y="310"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="16">
+    ✓ READY
+  </text>
+
+  <!-- Line 6 -->
+
+  <text x="45" y="350"
+        fill="#00f5ff"
+        font-family="monospace"
+        font-size="16">
+    &gt; Loading RAG &amp; AI Agents...
+  </text>
+
+  <text x="430" y="350"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="16">
+    ✓ READY
+  </text>
+
+  <!-- Status -->
+
+  <text x="650" y="150"
+        fill="#64748b"
+        font-family="monospace"
+        font-size="14">
+    SYSTEM
+  </text>
+
+  <circle cx="690" cy="185" r="8"
+          fill="#00ffa3"
+          filter="url(#glow)">
+
+    <animate
+      attributeName="opacity"
+      values="1;0.25;1"
+      dur="1.3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+  <text x="710" y="191"
+        fill="#00ffa3"
+        font-family="monospace"
+        font-size="17">
+    ONLINE
+  </text>
+
+  <!-- Cursor -->
+
+  <rect x="45" y="380"
+        width="10"
+        height="20"
+        fill="#00f5ff">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.8s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+</svg>
