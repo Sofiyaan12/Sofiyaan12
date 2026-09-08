@@ -1,13 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm Mohammed Sofiyaan
+<img src="./assets/banner.svg" width="100%" />
+
+<br>
 
 ### 🤖 AI/ML Engineer in Training
 
-</div><div align="center">
-
-# 👋 Hey, I'm Mohammed Sofiyaan
-
-### 🤖 AI/ML Engineer in Training
+Building intelligent systems with Python, Machine Learning, Deep Learning & Generative AI.
 
 </div>
