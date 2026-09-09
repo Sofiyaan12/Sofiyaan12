@@ -49,36 +49,6 @@
 One-line description of what it does and what you used to build it.
 -->
 
----
-
-### ⏱️ Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!-- This section auto-updates once the WakaTime Action below is set up -->
-<!--END_SECTION:waka-->
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofiyaan12&show_icons=true&theme=github-dark&hide_border=true&title_color=4dff9f&icon_color=4dff9f&text_color=b8ffd9&bg_color=050a06" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Sofiyaan12&theme=dark&hide_border=true&background=050a06&ring=4dff9f&fire=4dff9f&currStreakLabel=4dff9f" alt="Streak Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sofiyaan12&theme=react-dark&hide_border=true&bg_color=050a06&color=4dff9f&line=4dff9f&point=b8ffd9" alt="Activity Graph" width="90%"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sofiyaan12/Sofiyaan12/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 
