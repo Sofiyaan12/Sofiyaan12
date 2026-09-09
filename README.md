@@ -9,7 +9,7 @@
 ### 🧭 Identity Scan
 
 <p align="center">
-  <img src="assets/profile-scan-pixel.svg" alt="Profile Scan" width="100%"/>
+  <img src="assets/profile-scan.svg" alt="Profile Scan" width="100%"/>
 </p>
 
 ---
@@ -62,12 +62,12 @@ One-line description of what it does and what you used to build it.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github-dark&hide_border=true&title_color=4dff9f&icon_color=4dff9f&text_color=b8ffd9&bg_color=050a06" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=050a06&ring=4dff9f&fire=4dff9f&currStreakLabel=4dff9f" alt="Streak Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofiyaan12&show_icons=true&theme=github-dark&hide_border=true&title_color=4dff9f&icon_color=4dff9f&text_color=b8ffd9&bg_color=050a06" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofiyaan12&theme=dark&hide_border=true&background=050a06&ring=4dff9f&fire=4dff9f&currStreakLabel=4dff9f" alt="Streak Stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=050a06&color=4dff9f&line=4dff9f&point=b8ffd9" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sofiyaan12&theme=react-dark&hide_border=true&bg_color=050a06&color=4dff9f&line=4dff9f&point=b8ffd9" alt="Activity Graph" width="90%"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ One-line description of what it does and what you used to build it.
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
+  <img src="https://raw.githubusercontent.com/Sofiyaan12/Sofiyaan12/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
 </p>
 
 ---
@@ -84,5 +84,5 @@ One-line description of what it does and what you used to build it.
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mohammedsofiyaan12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
