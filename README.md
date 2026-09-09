@@ -45,7 +45,7 @@
 </p>
 
 <!-- Replace project-cards.svg content directly once real projects exist, or swap this block for real repo cards like:
-### [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repo)
+### [Project Name](https://github.com/Sofiyaan12/project-repo)
 One-line description of what it does and what you used to build it.
 -->
 
@@ -63,7 +63,7 @@ One-line description of what it does and what you used to build it.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sofiyaan12&show_icons=true&theme=github-dark&hide_border=true&title_color=4dff9f&icon_color=4dff9f&text_color=b8ffd9&bg_color=050a06" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofiyaan12&theme=dark&hide_border=true&background=050a06&ring=4dff9f&fire=4dff9f&currStreakLabel=4dff9f" alt="Streak Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Sofiyaan12&theme=dark&hide_border=true&background=050a06&ring=4dff9f&fire=4dff9f&currStreakLabel=4dff9f" alt="Streak Stats" height="165"/>
 </p>
 
 <p align="center">
