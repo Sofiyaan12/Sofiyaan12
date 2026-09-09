@@ -1,0 +1,82 @@
+<svg width="820" height="200" viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .box {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 1.5;
+        rx: 12;
+      }
+      .label {
+        font-family: 'Segoe UI', Verdana, sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        fill: #c9d1d9;
+        text-anchor: middle;
+      }
+      .glow {
+        animation: pulseGlow 3.6s ease-in-out infinite;
+      }
+      @keyframes pulseGlow {
+        0%   { stroke: #30363d; filter: drop-shadow(0 0 0px transparent); }
+        15%  { stroke: #58a6ff; filter: drop-shadow(0 0 10px #58a6ff); }
+        30%  { stroke: #30363d; filter: drop-shadow(0 0 0px transparent); }
+        100% { stroke: #30363d; filter: drop-shadow(0 0 0px transparent); }
+      }
+    </style>
+  </defs>
+
+  <!-- Row of tech boxes, each animation staggered via animation-delay -->
+  <!-- Python -->
+  <g>
+    <rect class="box glow" x="10" y="20" width="130" height="60" rx="12" style="animation-delay:0s"/>
+    <text class="label" x="75" y="55">Python</text>
+  </g>
+  <!-- SQL -->
+  <g>
+    <rect class="box glow" x="155" y="20" width="130" height="60" rx="12" style="animation-delay:0.4s"/>
+    <text class="label" x="220" y="55">SQL</text>
+  </g>
+  <!-- Pandas -->
+  <g>
+    <rect class="box glow" x="300" y="20" width="130" height="60" rx="12" style="animation-delay:0.8s"/>
+    <text class="label" x="365" y="55">Pandas</text>
+  </g>
+  <!-- NumPy -->
+  <g>
+    <rect class="box glow" x="445" y="20" width="130" height="60" rx="12" style="animation-delay:1.2s"/>
+    <text class="label" x="510" y="55">NumPy</text>
+  </g>
+  <!-- Scikit-learn -->
+  <g>
+    <rect class="box glow" x="590" y="20" width="220" height="60" rx="12" style="animation-delay:1.6s"/>
+    <text class="label" x="700" y="55">Scikit-learn</text>
+  </g>
+
+  <!-- Second row -->
+  <!-- Git -->
+  <g>
+    <rect class="box glow" x="10" y="110" width="130" height="60" rx="12" style="animation-delay:2.0s"/>
+    <text class="label" x="75" y="145">Git</text>
+  </g>
+  <!-- PyTorch -->
+  <g>
+    <rect class="box glow" x="155" y="110" width="130" height="60" rx="12" style="animation-delay:2.4s"/>
+    <text class="label" x="220" y="145">PyTorch</text>
+  </g>
+  <!-- LangChain -->
+  <g>
+    <rect class="box glow" x="300" y="110" width="150" height="60" rx="12" style="animation-delay:2.8s"/>
+    <text class="label" x="375" y="145">LangChain</text>
+  </g>
+  <!-- Streamlit -->
+  <g>
+    <rect class="box glow" x="465" y="110" width="150" height="60" rx="12" style="animation-delay:3.2s"/>
+    <text class="label" x="540" y="145">Streamlit</text>
+  </g>
+  <!-- Power BI -->
+  <g>
+    <rect class="box glow" x="630" y="110" width="180" height="60" rx="12" style="animation-delay:3.6s"/>
+    <text class="label" x="720" y="145">Power BI</text>
+  </g>
+</svg>
