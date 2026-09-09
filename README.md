@@ -9,7 +9,7 @@
 ### 🧭 Identity Scan
 
 <p align="center">
-  <img src="assets/profile-scan-pixel.svg" alt="Profile Scan" width="100%"/>
+  <img src="assets/profile-scan.svg" alt="Profile Scan" width="100%"/>
 </p>
 
 ---
